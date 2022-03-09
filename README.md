@@ -1,1 +1,2 @@
-# rsi-api
+# RSI
+El programa desarrollado en Python tiene el objetivo de mostrar en un archivo Excel (.xlsx) el RSI de diferentes acciones bursátiles. Para implementarlo, se utilizan dataframes a partir de `Pandas` y los datos se obtienen mediante webscrapping con `Request` y `BeautifulSoup`. 
